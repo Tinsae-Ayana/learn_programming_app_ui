@@ -1,4 +1,4 @@
-# educational_app_ui
+# learn_programming_app_ui
 
 A new Flutter project.
 
